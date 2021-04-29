@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+#resume {
+	width: 800px;
+}
+
 ol, ul {
 	list-style: none;
 }
